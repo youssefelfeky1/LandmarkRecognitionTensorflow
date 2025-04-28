@@ -1,4 +1,4 @@
-package com.example.landmarkrecognitiontensorflow.ui.theme
+package com.example.landmarkrecognitiontensorflow.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
